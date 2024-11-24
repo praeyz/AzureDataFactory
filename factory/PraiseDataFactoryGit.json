@@ -1,0 +1,9 @@
+{
+	"name": "PraiseDataFactoryGit",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c69536e4-28bb-43ca-bea4-c8066077c89d",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
